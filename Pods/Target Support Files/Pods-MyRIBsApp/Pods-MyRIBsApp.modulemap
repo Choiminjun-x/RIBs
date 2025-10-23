@@ -1,0 +1,6 @@
+framework module Pods_MyRIBsApp {
+  umbrella header "Pods-MyRIBsApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
